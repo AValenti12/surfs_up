@@ -18,7 +18,7 @@ June Temperature Statistics
 
 December Temperature Statistics
 
-- The averate temperature for December is 71 degrees.
+- The average temperature for December is 71 degrees.
 - The minimum temperature for December is 56 degrees.
 - The maximum temperature for December is 83 degrees.
 
