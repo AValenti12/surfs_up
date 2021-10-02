@@ -12,6 +12,7 @@ June Temperature Statistics
 - The minimum temperature for June is 64 degrees.
 - The maximum temperature for June is 85 degrees.
 
+![image](https://user-images.githubusercontent.com/88061345/135722917-f6708966-2308-4cab-a991-c537fcd5553f.png)
 
  
 
@@ -21,7 +22,8 @@ December Temperature Statistics
 - The minimum temperature for December is 56 degrees.
 - The maximum temperature for December is 83 degrees.
 
- 
+ ![image](https://user-images.githubusercontent.com/88061345/135722924-2d37a31b-5ffe-44f8-91c2-15b0f223d35a.png)
+
 
 # Summary
 
@@ -30,9 +32,16 @@ The average temperature between June and December only differs by roughly three 
 Given that his previous investment was "rained out", a deeper look into the rain during these same two months might be helpful to visualize.
 
 
+![image](https://user-images.githubusercontent.com/88061345/135722934-596ca605-93ea-4e16-9a98-15e76a9132e8.png)
 
+
+![image](https://user-images.githubusercontent.com/88061345/135722939-006e259b-5048-4e55-a93b-68a1c02268fd.png)
 
  
+ The precipatation for June ranges from 0-4.43 mm. The average precipitation is 0.14mm. For December precipitation ranges from 0-6.42mm, with an average of 0.21mm. 
+ 
+ 
+ When looking at the temperature and preciptation for June and December, the weather is pretty stable and would not be a huge risk to expanding the Surfs Up retail stores.
 
 
  
