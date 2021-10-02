@@ -34,11 +34,12 @@ Given that his previous investment was "rained out", a deeper look into the perc
 
 ![image](https://user-images.githubusercontent.com/88061345/135722934-596ca605-93ea-4e16-9a98-15e76a9132e8.png)
 
+![image](https://user-images.githubusercontent.com/88061345/135723230-3a80b48d-621b-4164-9147-61a7d36cef06.png)
 
-![image](https://user-images.githubusercontent.com/88061345/135722939-006e259b-5048-4e55-a93b-68a1c02268fd.png)
+
 
  
- The precipatation for June ranges from 0-4.43 mm. The average precipitation is 0.14mm. For December precipitation ranges from 0-6.42mm, with an average of 0.21mm. 
+ The precipitation for June ranges from 0-4.43 mm. The average precipitation is 0.14mm. For December precipitation ranges from 0-6.42mm, with an average of 0.21mm. 
  
  
  When looking at the temperature and preciptation for June and December, the weather is pretty stable and would not be a huge risk to expanding the Surfs Up retail stores.
